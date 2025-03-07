@@ -45,7 +45,10 @@ public class FileControl2 {
         }catch (Exception ex){
             System.out.println("writeLine error");
         }
+		
 
+		// Antepli Kasım 27
+		
 
 
     }
@@ -61,6 +64,6 @@ public class FileControl2 {
         }
     }
 
-
+		// Antepli Kasım 2727
 
 }
