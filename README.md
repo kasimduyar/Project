@@ -1,4 +1,4 @@
-# Projesi Title
+# KSM JAVA ! 
 Bu bir Kasım Duyar projesidir ! 
 | Kasım  | Duyar  |
 | ------------ | ------------ |
