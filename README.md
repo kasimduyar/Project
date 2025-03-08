@@ -2,7 +2,7 @@
 Bu bir Kasım Duyar projesidir ! 
 | Kasım  | Duyar  |
 | ------------ | ------------ |
-| 27  | 27  |
+| Equals  | karşılaştırmalarda kullanılan bir mthoddur  |
 | 27  | 27  |
 | 27  | 27  |
 | 27  | 27  |
